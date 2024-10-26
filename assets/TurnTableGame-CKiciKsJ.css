@@ -1,0 +1,1 @@
+.imgRotate{animation:rotate 10s ease-out forwards}@keyframes rotate{0%{transform:rotate(0)}90%{transform:rotate(18000deg)}93%{transform:rotate(18000deg)}95%{transform:rotate(18000deg)}97%{transform:rotate(18000deg)}99%{transform:rotate(18000deg)}to{transform:rotate(18000deg)}}
